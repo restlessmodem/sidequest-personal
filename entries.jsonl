@@ -1,16 +1,27 @@
-{"tier": "hot", "text": "auto light out for sleep", "created": "2026-10-02T23:19:07+02:00"}
-{"tier": "hot", "text": "whatsapp in cli", "created": "2026-10-02T21:15:26+02:00"}
-{"tier": "hot", "text": "rename personal pass", "created": "2026-10-02T19:55:23+02:00"}
-{"tier": "hot", "text": "backup librewolf profiles", "created": "2026-10-02T19:30:49+02:00"}
+{"tier": "hot", "text": "35l", "created": "2026-10-03T14:32:48+02:00"}
+{"tier": "hot", "text": "altpapier", "created": "2026-10-03T14:09:41+02:00"}
+{"tier": "hot", "text": "long cable and charger for desk", "created": "2026-10-03T12:19:43+02:00"}
+{"tier": "hot", "text": "date in kitchen for expr", "created": "2026-10-03T12:16:31+02:00"}
+{"tier": "hot", "text": "how focuused are you, one click random prompt", "created": "2026-10-03T12:12:49+02:00"}
+{"tier": "hot", "text": "mouse move skip deadzone on external", "created": "2026-10-03T12:11:43+02:00"}
 {"tier": "hot", "text": "chat selection instead of empty folders", "created": "2026-10-02T18:54:36+02:00"}
 {"tier": "hot", "text": "rewrite old commits?", "created": "2026-10-02T18:48:56+02:00"}
 {"tier": "hot", "text": "laptop as new server", "created": "2026-10-02T18:48:56+02:00"}
 {"tier": "hot", "text": "claude server sessions", "created": "2026-10-02T18:48:56+02:00"}
+{"tier": "warm", "text": "homeassistant, unify more light call to ZHA groups", "created": "2026-10-03T01:13:06+02:00"}
+{"tier": "warm", "text": "new proxmox backup including laptops backup to pbs sync to cloud pbs or S3", "created": "2026-10-03T01:05:00+02:00"}
+{"tier": "warm", "text": "rename personal pass", "created": "2026-10-02T19:55:23+02:00"}
 {"tier": "warm", "text": "check ganymede", "created": "2026-10-02T19:32:44+02:00"}
 {"tier": "warm", "text": "polymath finance rewview sometimes not persistent", "created": "2026-10-02T18:48:56+02:00"}
 {"tier": "warm", "text": "nixos on all lxc", "created": "2026-10-02T18:48:56+02:00"}
+{"tier": "cold", "text": "light sensor for sleep correlation", "created": "2026-10-03T01:24:54+02:00"}
+{"tier": "cold", "text": "turn on tv via HA / ikea remote", "created": "2026-10-03T01:14:54+02:00"}
+{"tier": "cold", "text": "whatsapp in cli", "created": "2026-10-02T21:15:26+02:00"}
 {"tier": "cold", "text": "nachtstreife music", "created": "2026-10-02T19:31:32+02:00"}
 {"tier": "cold", "text": "polymath random ideas section", "created": "2026-10-02T18:48:56+02:00"}
+{"tier": "archive", "text": "backup librewolf profiles", "created": "2026-10-02T19:30:49+02:00", "archived": "2026-10-03T01:31:28+02:00"}
+{"tier": "archive", "text": "auto light out for sleep", "created": "2026-10-02T23:19:07+02:00", "archived": "2026-10-03T01:31:22+02:00"}
+{"tier": "archive", "text": "air1 identify feature as notify", "created": "2026-10-02T23:42:54+02:00", "archived": "2026-10-03T01:31:18+02:00"}
 {"tier": "archive", "text": "zellij rename on session switch", "created": "2026-10-02T18:48:56+02:00", "archived": "2026-10-02T20:56:53+02:00"}
 {"tier": "archive", "text": "extentions managed by nix", "created": "2026-10-02T19:02:40+02:00", "archived": "2026-10-02T20:56:35+02:00"}
 {"tier": "archive", "text": "suspend warning still after resume", "created": "2026-10-02T19:26:33+02:00", "archived": "2026-10-02T20:56:31+02:00"}
